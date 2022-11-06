@@ -7,7 +7,7 @@ interface TypingEffectsProps {
     size: number
 }
 
-function TypingEffects({ textArray, speed, size }: TypingEffectsProps) {
+function TypingEffects({ textArray = ["Hello"], speed = 200, size = 50 }: TypingEffectsProps) {
   const [finishFlag, setFinishFlag] = useState(false);
   const [index, setIndex] = useState(0);
 
