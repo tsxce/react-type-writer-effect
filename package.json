@@ -1,5 +1,5 @@
 {
-  "name": "react-type-effect-test",
+  "name": "react-typing-writer-effect",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsxce/react-awp.git"
+    "url": "https://github.com/tsxce/react-typing-writer-effect.git"
   },
-  "author": "Nick",
+  "author": "Nick Tse",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsxce/react-awp/issues"
+    "url": "https://github.com/tsxce/react-typing-writer-effect"
   },
-  "homepage": "https://github.com/tsxce/react-awp#readme",
+  "homepage": "https://github.com/tsxce/react-typing-writer-effect",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
