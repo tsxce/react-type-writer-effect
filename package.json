@@ -2,6 +2,13 @@
   "name": "react-typing-writer-effect",
   "version": "1.0.1",
   "description": "",
+  "keywords": [
+    "react",
+    "typing",
+    "writer",
+    "typing effect",
+    "animation"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
