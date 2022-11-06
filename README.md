@@ -10,23 +10,22 @@ npm:
 
 `npm i react-typing-writer-effect`
 
+## Demo
+
+![](./examples/react-type-writer-effect.gif)
+
 ## Usage
 
-### import
-
 ```js
-`import TypingEffects from "react-typing-writer-effect";`
-
-### add
-`<TypingEffects />`:
+import TypingEffects from "react-typing-writer-effect";
 
 function TypingAnimation() {
   return (
-      <TypingEffects
-        textArray={["Hello", "my", "friend"]}
-        speed={200}
-        size={50}
-      />
+    <TypingEffects
+      textArray={["Hello", "my", "friend"]}
+      speed={200}
+      size={50}
+    />
   );
 }
 ```
